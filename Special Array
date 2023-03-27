@@ -1,0 +1,15 @@
+Input:
+n = 5
+arr = {1,2,4,8,16}
+Output:
+1
+Explanation:
+All the elements have a sum greater than all the elements before it.
+
+Input:
+n = 3
+arr = {1,3,4}
+Output:
+0
+Explanation:
+Here 1+3=4, thus it's not special.
