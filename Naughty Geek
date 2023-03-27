@@ -1,0 +1,27 @@
+Input :
+2
+
+Output :
+2 
+
+Explaination :
+Two ways are :
+Day 1  Day 2
+GF1     GF2
+GF2     GF1
+
+Input :
+3
+
+Output :
+6
+
+Explaination :
+Six ways are :
+Day 1    Day 2    Day 3
+ GF1       GF2      GF3
+ GF1       GF3      GF2
+ GF2       GF1      GF3
+ GF2       GF3      GF1
+ GF3       GF2      GF1
+ GF3       GF1      GF2
