@@ -1,0 +1,13 @@
+Input:
+N = 6, S = "abbbiz"
+Output:
+1
+Explanation:
+There is no such instance where a character with lower ASCII value comes after a character with higher ASCII value.
+
+Input:
+N = 8, S = "accdbjsy"
+Output:
+0
+Explanation:
+'b' comes after 'c' and 'd'.
